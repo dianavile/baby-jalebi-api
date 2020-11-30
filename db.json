@@ -1,0 +1,143 @@
+{
+    "baby-jalebi": [
+        {
+            "id": 0,
+            "name": "Chicken Tikka Massala",
+            "restaurant": "Baby Jalebi",
+            "web": "https://babyjalebi.es/",
+            "description": "A classic Indian chicken curry dish",
+            "ingredients": [
+                "yoghurt",
+                "ginger",
+                "garlic",
+                "curry powder",
+                "chicken breast",
+                "butter",
+                "onion",
+                "garam masala",
+                "corriander",
+                "tomato puree",
+                "tomatoes",
+                "chicken stock",
+                "honey",
+                "double cream",
+                "lemon juice"
+            ],
+            "price": [
+                {
+                    "priceid": "0",
+                    "price": "7,95€"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Ghost Karahi",
+            "restaurant": "Baby Jalebi",
+            "web": "https://babyjalebi.es/",
+            "description": "",
+            "ingredients": [
+                "mutton-lamb",
+                "tomatoes",
+                "green chillies",
+                "ginger",
+                "garlic",
+                "red chilli powder",
+                "salt",
+                "black pepper",
+                "oil"
+            ],
+            "price": [
+                {
+                    "priceid": "1",
+                    "price": "7,50€"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Gambas Madrasi",
+            "restaurant": "Baby Jalebi",
+            "web": "https://babyjalebi.es/",
+            "description": "Prawns marinated in Madras curry with pineapple",
+            "ingredients": [
+                "prawns",
+                "pineapple",
+                "coconutmilk",
+                "curry madras",
+                "asian fish sauce",
+                "sunflower oil",
+                "lime",
+                "red pepper",
+                "garlic",
+                "ginger",
+                "corriander",
+                "jasmin rice"
+            ],
+            "price": [
+                {
+                    "priceid": "2",
+                    "price": "9,50€"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Palak Paneer",
+            "restaurant": "Baby Jalebi",
+            "web": "https://babyjalebi.es/",
+            "description": "Indian cottage cheese cubes in a mild, spiced smooth spinach sauce.",
+            "ingredients": [
+                "spinach",
+                "green chilie pepper",
+                "garlic",
+                "ginger",
+                "water",
+                "butter",
+                "cumin seeds",
+                "Indian bay leaf",
+                "onions",
+                "tomatoes",
+                "turmeric powder",
+                "cayenne pepper",
+                "water",
+                "garam masala powder",
+                "paneer or tofu",
+                "low fat cream",
+                "dry fenugreek leaves",
+                "lemon"
+            ],
+            "price": [
+                {
+                    "priceid": "3",
+                    "price": "6,95€"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Garlic Naan",
+            "restaurant": "Baby Jalebi",
+            "web": "https://babyjalebi.es/",
+            "description": "Indian-Pakistan garlic bread",
+            "ingredients": [
+                "flour",
+                "salt",
+                "garlic",
+                "water",
+                "sugar",
+                "milk",
+                "yogurt",
+                "oil",
+                "butter",
+                "corriander"
+            ],
+            "price": [
+                {
+                    "priceid": "4",
+                    "price": "1,80€"
+                }
+            ]
+        }
+    ]
+}
