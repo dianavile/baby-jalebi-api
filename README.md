@@ -14,4 +14,8 @@ Create an API of my favourite Indian &amp; Pakistani Street Food restaurant in B
 8. Deploy database on Heroku.
 9. See database on Heroku [baby-jalebi-api](https://baby-jalebi-api.herokuapp.com/baby-jalebi)
 
+# Dependencies
+-  "json-server": "^0.16.3"
 
+### Deployment
+- Heroku [baby-jalebi-api](https://baby-jalebi-api.herokuapp.com/baby-jalebi)
